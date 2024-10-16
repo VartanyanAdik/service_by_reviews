@@ -1,0 +1,4 @@
+
+/.idea
+*.pyc
+/reviews/migrations
